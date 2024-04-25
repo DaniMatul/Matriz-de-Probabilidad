@@ -26,6 +26,7 @@ def multiplicar_probabilidad(matriz_probabilidad_t, matriz_x, cantidad_veces):
 
         return matriz_general
 
+
 def multiplicar_porcentaje(matriz_general):
     for a in range(3):
         for b in range(3):
@@ -96,7 +97,3 @@ def main():
 
 
 main()
-
-
-
-
